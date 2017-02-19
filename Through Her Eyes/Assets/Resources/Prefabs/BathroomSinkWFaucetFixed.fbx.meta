@@ -1,0 +1,105 @@
+fileFormatVersion: 2
+guid: 94672ba3965cf4538adfa6ab2b37bbc3
+timeCreated: 1462235923
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group
+    100004: pasted__group17
+    100006: pasted__pasted__bath_sink_collumn
+    100008: pasted__pasted__bathSinkBasin
+    100010: Sink:_UNKNOWN_REF_NODE_fosterParent1
+    100012: Sink:faucet
+    100014: Sink:faucet_handle
+    100016: Sink:faucet_handle1
+    100018: Sink:kitchencounters
+    400000: //RootNode
+    400002: group
+    400004: pasted__group17
+    400006: pasted__pasted__bath_sink_collumn
+    400008: pasted__pasted__bathSinkBasin
+    400010: Sink:_UNKNOWN_REF_NODE_fosterParent1
+    400012: Sink:faucet
+    400014: Sink:faucet_handle
+    400016: Sink:faucet_handle1
+    400018: Sink:kitchencounters
+    2300000: pasted__pasted__bath_sink_collumn
+    2300002: pasted__pasted__bathSinkBasin
+    2300004: Sink:faucet
+    2300006: Sink:faucet_handle
+    2300008: Sink:faucet_handle1
+    3300000: pasted__pasted__bath_sink_collumn
+    3300002: pasted__pasted__bathSinkBasin
+    3300004: Sink:faucet
+    3300006: Sink:faucet_handle
+    3300008: Sink:faucet_handle1
+    4300000: pasted__pasted__bathSinkBasin
+    4300002: pasted__pasted__bath_sink_collumn
+    4300004: Sink:faucet
+    4300006: Sink:faucet_handle
+    4300008: Sink:faucet_handle1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

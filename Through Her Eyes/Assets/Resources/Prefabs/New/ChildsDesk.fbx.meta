@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: bb8f9d04640cc45a38ef71489e252d1f
+timeCreated: 1461703343
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _UNKNOWN_REF_NODE_fosterParent1
+    100002: chair1
+    100004: ChildDeskForScaling:DeskHandleLowerSide
+    100006: ChildDeskForScaling:DeskHandleSideUpper
+    100008: ChildDeskForScaling:DeskHandleUnderside
+    100010: ChildDeskForScaling:DeskSideDrawerLower
+    100012: ChildDeskForScaling:DeskSideDrawerUpper
+    100014: ChildDeskForScaling:DeskUndersideDrawer
+    100016: ChildDeskForScaling:group
+    100018: ChildDeskForScaling:group1
+    100020: ChildDeskForScaling:pasted__DeskHandleSideUpper
+    100022: ChildDeskForScaling:pasted__group
+    100024: ChildDeskForScaling:pCube1
+    100026: //RootNode
+    100028: DeskHandleSideLower
+    100030: DeskHandleUnderside
+    100032: tablegroup
+    400000: _UNKNOWN_REF_NODE_fosterParent1
+    400002: chair1
+    400004: ChildDeskForScaling:DeskHandleLowerSide
+    400006: ChildDeskForScaling:DeskHandleSideUpper
+    400008: ChildDeskForScaling:DeskHandleUnderside
+    400010: ChildDeskForScaling:DeskSideDrawerLower
+    400012: ChildDeskForScaling:DeskSideDrawerUpper
+    400014: ChildDeskForScaling:DeskUndersideDrawer
+    400016: ChildDeskForScaling:group
+    400018: ChildDeskForScaling:group1
+    400020: ChildDeskForScaling:pasted__DeskHandleSideUpper
+    400022: ChildDeskForScaling:pasted__group
+    400024: ChildDeskForScaling:pCube1
+    400026: //RootNode
+    400028: DeskHandleSideLower
+    400030: DeskHandleUnderside
+    400032: tablegroup
+    2300000: chair1
+    2300002: ChildDeskForScaling:DeskHandleLowerSide
+    2300004: ChildDeskForScaling:DeskSideDrawerLower
+    2300006: ChildDeskForScaling:DeskSideDrawerUpper
+    2300008: ChildDeskForScaling:DeskUndersideDrawer
+    2300010: ChildDeskForScaling:pCube1
+    2300012: DeskHandleSideLower
+    2300014: DeskHandleUnderside
+    3300000: chair1
+    3300002: ChildDeskForScaling:DeskHandleLowerSide
+    3300004: ChildDeskForScaling:DeskSideDrawerLower
+    3300006: ChildDeskForScaling:DeskSideDrawerUpper
+    3300008: ChildDeskForScaling:DeskUndersideDrawer
+    3300010: ChildDeskForScaling:pCube1
+    3300012: DeskHandleSideLower
+    3300014: DeskHandleUnderside
+    4300000: chair1
+    4300002: ChildDeskForScaling:pCube1
+    4300004: ChildDeskForScaling:DeskSideDrawerLower
+    4300006: ChildDeskForScaling:DeskSideDrawerUpper
+    4300008: ChildDeskForScaling:DeskUndersideDrawer
+    4300010: ChildDeskForScaling:DeskHandleLowerSide
+    4300012: DeskHandleUnderside
+    4300014: DeskHandleSideLower
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

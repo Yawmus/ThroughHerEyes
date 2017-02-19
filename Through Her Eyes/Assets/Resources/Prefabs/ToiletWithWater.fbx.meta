@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: c880f02e76c5c4833914e8663c06df47
+timeCreated: 1461714477
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Lid
+    100002: ToiletBowl
+    100004: ToiletFlusher
+    100006: ToiletLId
+    100008: ToiletLidSwivel
+    100010: ToiletLidSwivel2
+    100012: ToiletSeat
+    100014: ToiletTank
+    100016: //RootNode
+    100018: Water1
+    400000: Lid
+    400002: ToiletBowl
+    400004: ToiletFlusher
+    400006: ToiletLId
+    400008: ToiletLidSwivel
+    400010: ToiletLidSwivel2
+    400012: ToiletSeat
+    400014: ToiletTank
+    400016: //RootNode
+    400018: Water1
+    2300000: ToiletBowl
+    2300002: ToiletFlusher
+    2300004: ToiletLId
+    2300006: ToiletLidSwivel
+    2300008: ToiletLidSwivel2
+    2300010: ToiletSeat
+    2300012: ToiletTank
+    2300014: Water1
+    3300000: ToiletBowl
+    3300002: ToiletFlusher
+    3300004: ToiletLId
+    3300006: ToiletLidSwivel
+    3300008: ToiletLidSwivel2
+    3300010: ToiletSeat
+    3300012: ToiletTank
+    3300014: Water1
+    4300000: ToiletLidSwivel2
+    4300002: ToiletLidSwivel
+    4300004: ToiletLId
+    4300006: ToiletBowl
+    4300008: ToiletSeat
+    4300010: ToiletTank
+    4300012: ToiletFlusher
+    4300014: Water1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
